@@ -10,9 +10,11 @@ It includes:
     - Excel file with the features (*-features.xlsx)
 
 
+
 - **Text files**: 
   - dataset_split.csv:  (reference, validation and test set)
   - feature_overview.csv: List of all possible node features (with enumeration, mean and std)
+
 
 
 - **Graphs**:
@@ -21,6 +23,7 @@ It includes:
     - Best graph with distance-based edge function
     - Best graph with similarity-based edge function
     - Baseline
+
 
 
 This dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY). If you want to cite this dataset use:
