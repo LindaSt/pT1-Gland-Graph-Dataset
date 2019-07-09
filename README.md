@@ -26,8 +26,9 @@ It includes:
 
 
 
-This dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY). If you want to cite this dataset use:
+This dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY).
 The parameters for the GED calculated in this paper can be found [here](https://www.google.com)
+
 
 If you want to cite us please use:
 `` BIBTEX TBA``
