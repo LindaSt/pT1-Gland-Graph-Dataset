@@ -20,9 +20,8 @@ It includes:
 - **Graphs**:
   - Base dataset: cell segmentation with features (just nodes)
   - Paper graphs:
-    - Best graph with distance-based edge function
-    - Best graph with similarity-based edge function
     - Baseline
+    - Optimized graph
 
 
 
