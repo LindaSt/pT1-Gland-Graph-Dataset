@@ -12,8 +12,9 @@ It includes:
 
 
 - **Text files**: 
-  - dataset_split.csv:  (reference, validation and test set)
-  - feature_overview.csv: List of all possible node features (with enumeration, mean and std)
+  - dataset_split.csv: reference, validation and test set split for all 4 cross-validations
+  - feature_overview.csv: list of all possible node features (with enumeration, mean and std)
+  - ged-costs.csv: parameters for the different experiments
 
 
 
