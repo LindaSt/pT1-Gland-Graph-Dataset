@@ -26,7 +26,7 @@ It includes:
 
 
 This dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY) ([link to the paper](https://openreview.net/pdf?id=HklExX79-S)).
-The parameters for the GED calculated in this paper can be found [here](https://bit.ly/2xDuRcV)
+The parameters for the GED calculated in this paper can be found [here](https://bit.ly/2xDuRcV).
 
 
 If you want to cite us please use:
