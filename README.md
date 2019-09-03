@@ -33,3 +33,5 @@ The parameters for the GED calculated in this paper can be found [here](https://
 If you want to cite us please use:
 `` BIBTEX TBA``
 
+This work is part of a larger project. Find out more [here](https://icosys.ch/bts-project).
+
