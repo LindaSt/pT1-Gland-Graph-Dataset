@@ -1,3 +1,9 @@
-n;e;accuracy;features
-1.4;0.6;0.66923;none (baseline)
-1.8;0.2;0.83077;Cytoplasm: Eosin OD min, Nucleus: Hematoxylin OD max, Nucleus: Hematoxylin OD mean, Nucleus: Hematoxylin OD min
+dataset-split;n;e;accuracy;features
+N1;1.4;0.6;0.66923;none (baseline)
+N2;1.4;0.8;0.73846;;none (baseline)
+N3;1.4;0.8;0.73077;none (baseline)
+N4;0.6;0.2;0.73077;none (baseline)
+N1;1.8;0.2;0.83077;Cytoplasm: Eosin OD min, Nucleus: Hematoxylin OD max, Nucleus: Hematoxylin OD mean, Nucleus: Hematoxylin OD min
+N2;1.4;0.2;0.85385;Cytoplasm: Eosin OD min, Nucleus: Hematoxylin OD max, Nucleus: Hematoxylin OD mean, Nucleus: Hematoxylin OD min
+N3;1.8;0.4;0.80769;Cytoplasm: Eosin OD min, Nucleus: Hematoxylin OD max, Nucleus: Hematoxylin OD mean, Nucleus: Hematoxylin OD min
+N4;1.8;0.2;0.83846;Cytoplasm: Eosin OD min, Nucleus: Hematoxylin OD max, Nucleus: Hematoxylin OD mean, Nucleus: Hematoxylin OD min
