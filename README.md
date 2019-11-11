@@ -31,7 +31,13 @@ The parameters for the GED calculated in this paper can be found [here](https://
 
 
 If you want to cite us please use:
-`` BIBTEX TBA``
+``@inproceedings{studer2019graph,
+  title={Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images},
+  author={Studer, Linda and Toneyan, Shushan and Zlobec, Inti and Dawson, Heather and Fischer, Andreas},
+  year={2019}
+  booktitle={COMPAY Workshop, International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  year={2019},
+}``
 
 This work is part of a larger project. Find out more [here](https://icosys.ch/bts-project).
 
