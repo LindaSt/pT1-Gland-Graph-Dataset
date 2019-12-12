@@ -26,11 +26,16 @@ It includes:
 
 
 
-This dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY) ([link to the paper](https://openreview.net/pdf?id=HklExX79-S)).
+This dataset has been for published at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY) ([link to the paper](https://openreview.net/pdf?id=HklExX79-S)).
 The parameters for the GED calculated in this paper can be found [here](https://bit.ly/2xDuRcV).
 
+The current state-of-the-art performance is 83.3±1.7 on the 4-fold CV. If you outperform this, let me know and I will add you to the list.
 
-If you want to cite us please use:
+| Published by  | Paper                                                                        | Used method | Performance |
+|---------------|------------------------------------------------------------------------------|----------------------------- ---------|-------------|
+| Studer et al. | ([COMPAY Workshop @ MICCAI 2019](https://openreview.net/pdf?id=HklExX79-S)). | Improved bipartite graph-matching | 83.3±1.7 |
+
+If you use this dataset in your publication cite this paper:
 
 ``@inproceedings{studer2019graph,
   title={Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images},
