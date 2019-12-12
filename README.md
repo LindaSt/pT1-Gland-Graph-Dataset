@@ -31,8 +31,8 @@ The parameters for the GED calculated in this paper can be found [here](https://
 
 The current state-of-the-art performance is 83.3±1.7 on the 4-fold CV. If you outperform this, let me know and I will add you to the list.
 
-| Published by  | Paper                                                                        | Used method | Performance |
-|---------------|------------------------------------------------------------------------------|----------------------------- ---------|-------------|
+| Published by  | Paper       | Used method | Performance |
+|---------------|-------------|-------------|-------------|
 | Studer et al. | ([COMPAY Workshop @ MICCAI 2019](https://openreview.net/pdf?id=HklExX79-S)). | Improved bipartite graph-matching | 83.3±1.7 |
 
 If you use this dataset in your publication cite this paper:
